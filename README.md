@@ -41,9 +41,6 @@ Netflix-Login-Page/
 ├── style.css
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 How to Run
@@ -74,3 +71,4 @@ Frontend Learner
 
 
 This is a **practice project** and **not intended for production use**.
+
