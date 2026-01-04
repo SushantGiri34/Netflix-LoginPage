@@ -184,3 +184,14 @@ form .form-help :where(label, a) {
         margin: 25px 0 40px;
     }
 }
+
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  .login-container {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
