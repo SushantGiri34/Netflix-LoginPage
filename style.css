@@ -23,6 +23,13 @@ body::before {
     background-position: center;
 }
 
+button:hover {
+  background-color: #e50914;
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+
 nav {
     position: fixed;
     padding: 25px 60px;
